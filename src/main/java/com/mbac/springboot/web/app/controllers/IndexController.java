@@ -9,7 +9,10 @@ public class IndexController {
 
     @GetMapping({"/","/home"})
     public String home(Model model){
-        model.addAttribute("title", "Main app title");
+        model.addAttribute("title", "Cardano Tracker");
+        model.addAttribute("news", "Latest news");
+        model.addAttribute("price", "Price data");
+        model.addAttribute("staking","Staking calculator");
         return "home";
     }
 
