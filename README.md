@@ -1,6 +1,17 @@
 # Coin Tracker
 Learning project focused on tracking news, price data and more about the most popular cryptocurrencies.
 
+**Technologies:**
+
+ - Backend:
+	 - Java
+	 - Spring Boot
+ - Frontend:
+	 - Thymeleaf
+	 - Bootstrap
+ - Database:
+	 - Couchbase
+
 **Current features:**
 - [ ] Price tracking
 - [ ] News feed
