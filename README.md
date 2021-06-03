@@ -10,7 +10,7 @@ Learning project focused on tracking news, price data and more about the most po
 	 - Thymeleaf
 	 - Bootstrap
  - Database:
-	 - MySQL
+	 - Couchbase
 
 **Current features:**
 - [ ] Price tracking
