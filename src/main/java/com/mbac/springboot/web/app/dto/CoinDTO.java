@@ -6,6 +6,7 @@ import java.util.Date;
 import java.util.List;
 
 public class CoinDTO {
+
     @JsonProperty("urls")
     public UrlsDTO getUrls() {
         return this.urls;
